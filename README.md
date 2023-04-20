@@ -11,7 +11,7 @@ Ele também pode ser utilizado como currículo ‘vitae’ e portfolio pessoal.
 
 https://github.com/digitalinnovationone/cv
 
-## Duvidas:
+**Dúvidas:**
 https://github.com/digitalinnovationone/cv/issues
 
 **Referências:**
