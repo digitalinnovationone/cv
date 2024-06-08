@@ -30,7 +30,7 @@ Há várias formas de iniciar o desenvolvimento do seu projeto, como:
 
 1. Vamos começar fazendo o Fork do nosso projeto em: https://github.com/falvojr/cv
 2. Ao criar o projeto podemos utilizar o próprio GitHub como IDE utilizando o (.) na página inicial do projeto.
-3. Github Pages para visualizamos e compartilhamos nosso CV online com todos.
+3. Github Pages para visualizamos e compartilhamos nosso CV online (https://carlosjrsilva.github.io/cv/).
 
 **Dicas:**
 
